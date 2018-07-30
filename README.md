@@ -1,7 +1,7 @@
 # Sort-algorithm
 Common sort algorithm implementations
-##This is sort algorithms implementations using C++ template class mode
-Selection sort
+## This is sort algorithms implementations using C++ template class mode
+** Selection sort
 Insert sort
 Shell sort
 Merge sort
